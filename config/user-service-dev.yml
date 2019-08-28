@@ -21,6 +21,7 @@ spring:
   application:
     name: user-service
     
+    
 server:
   port: 8101
   
