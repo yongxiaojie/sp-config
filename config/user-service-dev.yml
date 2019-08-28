@@ -21,7 +21,7 @@ management:
         include: refresh
         
   rabbitmq:
-    host: 192.168.64.140
+    host: 192.168.195.131
     port: 5672
     username: admin
     password: admin
